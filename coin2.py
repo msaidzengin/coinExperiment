@@ -1,3 +1,3 @@
-# We can calculate with probability of each event
-# If we choose fair coin (99/100) -> (1/2)^10
-# If we choose unfair coin (1/100) -> 1
+# Closed-form likelihoods for the same question.
+# Fair coin (99/100): probability of 10 heads is (1/2)^10.
+# Unfair coin (1/100): probability of 10 heads is 1.
